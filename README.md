@@ -31,10 +31,10 @@ And of course Dillinger itself is open source with a [public repository](https:/
 
 ### Installation
 
-```sh
-$ Copy and paste in home folder, Or application folder
-$ Add config setting in `activecampaign.php` file
-$ Load this librery where you want to use it
+```txt
+Copy and paste in home folder, Or application folder
+Add config setting in `activecampaign.php` file
+Load this librery where you want to use it
 ```
 
 ### Development
