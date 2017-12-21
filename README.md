@@ -1,6 +1,6 @@
 # ActiveCampaign Codeigneter Librery
 powered by
-[![N|Solid](http://codelab7.com/assets/thumb.png)](http://codelab7.com/)
+[![codelab7](http://codelab7.com/assets/thumb.png)](http://codelab7.com/)
 
 ActiveCampaign Codeigneter Librery is simple integration with ActiveCampaign to codeigniter. So we can use it's function to integrate with ActiveCampaign 
 
@@ -44,6 +44,7 @@ Want to contribute? Great! Each and every help will be appreciated
 
  - Adding Messages function
  - better performance for testing before each and every function
+ - Template handling
 
 License
 ----
