@@ -1,10 +1,10 @@
 # ActiveCampaign Codeigneter Librery
 powered by
-[![codelab7](http://codelab7.com/assets/thumb.png)](http://codelab7.com/)
+[![N|CodeLab7](https://avatars0.githubusercontent.com/u/39191324?s=200&v=4)](https://codelab7.com)
 
-ActiveCampaign Codeigneter Librery is simple integration with ActiveCampaign to codeigniter. So we can use it's function to integrate with ActiveCampaign 
+ActiveCampaign Codeigniter Library is simple integration with ActiveCampaign to Codeigniter. So we can use its function to integrate with ActiveCampaign
 
-  - copy and paste it in codigneter home folder
+  - copy and paste it in Codeigniter home folder
   - Set URL and key in config file
   - load library
   - use function(s)
@@ -15,35 +15,35 @@ ActiveCampaign Codeigneter Librery is simple integration with ActiveCampaign to 
   - Test connection, Get contacts, Add Contact, Get Lists
 
 You can also:
-  - Set Defult list
+  - Set Default list
   - Getting Error or Result messaging
 
 
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+ActiveCampaign Library uses some open source projects to work correctly:
 
 * [ActiveCampaign php SDK](https://github.com/ActiveCampaign/activecampaign-api-php) - Core fetures to use librery!
 * [codeigniter](https://codeigniter.com/) - As a platform!
 
-And of course Dillinger itself is open source with a [public repository](https://github.com/pathusutariya/ActiveCampaign-Codeigniter-Library) on GitHub.
+And of course ActiveCampaign-Codeigniter-Library itself is open source with a [public repository](https://github.com/pathusutariya/ActiveCampaign-Codeigniter-Library) on GitHub.
 
 ### Installation
 
 ```txt
-Copy and paste in home folder, Or application folder
+Copy and paste in the home folder, Or application folder
 Add config setting in `activecampaign.php` file
-Load this librery where you want to use it
+Load this library where you want to use it
 ```
 
 ### Development
-Want to contribute? Great! Each and every help will be appreciated
+Want to contribute? Great! Each and every help will be appreciated.
 
 ### Todos
 
  - Adding Messages function
- - better performance for testing before each and every function
+ - better performance for testing before every function
  - Template handling
 
 License
